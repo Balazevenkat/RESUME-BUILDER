@@ -48,4 +48,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 Referred to [this](https://www.sitepoint.com/google-auth-react-express/) for setting up Google Sign-in
 
-<h3 align="center"><b>Developed with :heart: by Girish Thatte</b></h1>
+<h3 align="center"><b>Developed with :heart: by venkat</b></h1>
